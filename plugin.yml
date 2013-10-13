@@ -1,0 +1,5 @@
+name: Tutorial
+author: MariusLange
+version: 1.0
+
+main: me.mariuslange.tutorial.Tutorial
